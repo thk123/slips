@@ -8,6 +8,7 @@ It will attempt to spot:
  - Missing colons
  - Missing brackets 
  - Unexpected indentation
+ - Single equals in boolean condition
 
 Name
 ----
