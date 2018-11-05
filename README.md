@@ -12,6 +12,15 @@ It will attempt to spot:
  - Unexpected indentation
  - Single equals in boolean condition
 
+Setup
+-----
+
+Install requirements:
+
+```bash
+$ pip install -r requirements.txt
+```
+
 Name
 ----
 
